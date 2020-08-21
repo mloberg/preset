@@ -26,3 +26,12 @@ Options:
 
 * `--form`: Install the [custom forms plugin](https://github.com/tailwindlabs/tailwindcss-custom-forms)
 * `--typography`: Install the [typography plugin](https://github.com/tailwindlabs/tailwindcss-typography)
+
+## Dependabot
+
+Add a [Dependabot](https://docs.github.com/en/github/administering-a-repository/about-github-dependabot-version-updates)
+config.
+
+Usage:
+
+    npx use-preset mloberg/preset:dependabot
